@@ -1,0 +1,7 @@
+C:\Users\guthe\documents\visual studio 2010\Projects\kodolas\kodolas\bin\Debug\kodolas.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\kodolas\kodolas\bin\Debug\kodolas.pdb
+C:\Users\guthe\documents\visual studio 2010\Projects\kodolas\kodolas\obj\x86\Debug\kodolas.Form1.resources
+C:\Users\guthe\documents\visual studio 2010\Projects\kodolas\kodolas\obj\x86\Debug\kodolas.Properties.Resources.resources
+C:\Users\guthe\documents\visual studio 2010\Projects\kodolas\kodolas\obj\x86\Debug\kodolas.csproj.GenerateResource.Cache
+C:\Users\guthe\documents\visual studio 2010\Projects\kodolas\kodolas\obj\x86\Debug\kodolas.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\kodolas\kodolas\obj\x86\Debug\kodolas.pdb
